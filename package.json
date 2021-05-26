@@ -49,7 +49,7 @@
     "cross-env": "6.0.3",
     "minimist": "1.2.3",
     "node-sass": "4.13.1",
-    "pug": "2.0.4",
+    "pug": "3.0.1",
     "pug-plain-loader": "1.0.0",
     "rollup": "1.26.1",
     "rollup-plugin-babel": "4.3.3",
